@@ -157,7 +157,8 @@ print(f"Model Accuracy: {accuracy * 100:.2f}%")
 ## Results and Analysis
 
 ### Visual Comparison of Spectrograms
-![Spectrogram Comparison](D:\Projects2.0\SU\output.png)
+![output](https://github.com/user-attachments/assets/9c68958e-b5ab-43b4-af62-1480aaeb032e)
+
 
 ### Performance Comparison
 | Windowing Technique | Accuracy |
